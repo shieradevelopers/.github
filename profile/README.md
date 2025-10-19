@@ -44,8 +44,8 @@ Our mission is to **learn**, **build**, and **grow** together, contributing to t
 ## 📫 Connect With Us  
 💬 **Email:** shieradevelopers@gmail.com  
 🌐 **Website:** (coming soon...)  
-🐙 **GitHub:** [shieradevelopers](https://github.com/your-org-link)  
-
+🐙 **GitHub:** [shieradevelopers](https://github.com/shieradevelopers)  
+  **LinkedIn:** [shieradevelopers](https://www.linkedin.com/company/shieradevelopers/)
 ---
 
 ⭐ **"Code with purpose, build with faith, and strive for excellence."**
